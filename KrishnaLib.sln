@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KrishnaLib", "KrishnaLib.vcxproj", "{AF2988EB-13EA-4EDF-A069-CF8FAC5E6914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF2988EB-13EA-4EDF-A069-CF8FAC5E6914}.Debug|ARM.ActiveCfg = Debug|ARM
+		{AF2988EB-13EA-4EDF-A069-CF8FAC5E6914}.Debug|ARM.Build.0 = Debug|ARM
+		{AF2988EB-13EA-4EDF-A069-CF8FAC5E6914}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{AF2988EB-13EA-4EDF-A069-CF8FAC5E6914}.Debug|ARM64.Build.0 = Debug|ARM64
+		{AF2988EB-13EA-4EDF-A069-CF8FAC5E6914}.Debug|x64.ActiveCfg = Debug|x64
+		{AF2988EB-13EA-4EDF-A069-CF8FAC5E6914}.Debug|x64.Build.0 = Debug|x64
+		{AF2988EB-13EA-4EDF-A069-CF8FAC5E6914}.Debug|x86.ActiveCfg = Debug|x86
+		{AF2988EB-13EA-4EDF-A069-CF8FAC5E6914}.Debug|x86.Build.0 = Debug|x86
+		{AF2988EB-13EA-4EDF-A069-CF8FAC5E6914}.Release|ARM.ActiveCfg = Release|ARM
+		{AF2988EB-13EA-4EDF-A069-CF8FAC5E6914}.Release|ARM.Build.0 = Release|ARM
+		{AF2988EB-13EA-4EDF-A069-CF8FAC5E6914}.Release|ARM64.ActiveCfg = Release|ARM64
+		{AF2988EB-13EA-4EDF-A069-CF8FAC5E6914}.Release|ARM64.Build.0 = Release|ARM64
+		{AF2988EB-13EA-4EDF-A069-CF8FAC5E6914}.Release|x64.ActiveCfg = Release|x64
+		{AF2988EB-13EA-4EDF-A069-CF8FAC5E6914}.Release|x64.Build.0 = Release|x64
+		{AF2988EB-13EA-4EDF-A069-CF8FAC5E6914}.Release|x86.ActiveCfg = Release|x86
+		{AF2988EB-13EA-4EDF-A069-CF8FAC5E6914}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AFF6975-113C-4B75-AEAD-9FD387DFC13B}
+	EndGlobalSection
+EndGlobal
